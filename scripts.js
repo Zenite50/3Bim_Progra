@@ -6,7 +6,7 @@ function verificar() {
     if (clave !== contraseña) {
         alert('La contraseña es incorrecta');
     } else {
-        window.location.href = "https://www.ejemplo.com"; // Reemplaza esta URL con la URL deseada
+        window.location.href = "https://supercell.com/en/games/clashroyale/"; // Reemplaza esta URL con la URL deseada
     }
 }
 
