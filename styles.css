@@ -18,7 +18,7 @@ body {
     background-color: #333333; /* Color de fondo del contenedor */
     padding: 20px;
     border-radius: 8px;
-    width: 80%;
+    width: 90%;
     max-width: 800px;
 }
 
@@ -29,7 +29,7 @@ body {
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin: 20px auto;
-    width: 100%;
+    width: 90%;
     max-width: 500px;
     text-align: left;
 }
